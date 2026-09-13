@@ -31,4 +31,3 @@ python3 -m http.server
 
 ## Note
 
-> 本 README 由 DuMate 生成（2026-09-13）。本地目录曾因克隆中断被清空，文件内容来自 GitHub 远程仓库。
